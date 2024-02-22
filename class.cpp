@@ -9,7 +9,7 @@ public:
     char fav_char;
     float cgpa;
 
-    // We can only access private data members in the same class
+    // We can access private data members, only in the same class
     void print()
     {
         cin >> contact_no;
